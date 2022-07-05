@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&family=Teko:wght@500&display=swap');
+
+/* FONDO DE COLORES */
+
+body{
+	background-color: #b5b2b2;
+}
+
+.bg-red{
+	background-color: #ea0000;
+}
+
+.bg-grey{
+	background-color: #b5b2b2;
+}
+
+.bg-white{
+	background-color: #fff;
+}
+
+.txt-white{
+	color: #fff;
+}
+
+.txt-grey{
+	color: #313135;
+}
+
+.font{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 1.2em;
+}
+
+#botonera img{
+	width: 90px;
+	height: 90px;
+	border-radius: 15px;
+}
+
+.price{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+h1{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 2em;
+	color: #313135;
+	font-weight: 700;
+}
+
+figure:hover{
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+
