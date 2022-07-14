@@ -46,6 +46,19 @@ figure{
 	}
 }
 
+.producto{
+	position: relative;
+	width: 250px;
+	height: 250px;
+	flex: none;
+	overflow: hidden;
+	img{
+		object-fit: contain;
+		width: 100%;
+		height: 250px;
+	}
+}
+
 .btn-search{
 	@extend .btn;
 	color: $txt-grey;

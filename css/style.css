@@ -7884,6 +7884,17 @@ figure button .btn, figure button .btn-search {
 figure:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); }
 
+.producto {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  flex: none;
+  overflow: hidden; }
+  .producto img {
+    object-fit: contain;
+    width: 100%;
+    height: 250px; }
+
 .btn-search {
   color: #313135; }
 
